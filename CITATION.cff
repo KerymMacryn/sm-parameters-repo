@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "TSQVT: Twistorial Spectral Quantum Vacuum Theory"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2025-12-11
+url: "https://github.com/kerym/TSQVT"
+repository-code: "https://github.com/kerym/TSQVT"
+license: MIT
+keywords:
+  - quantum gravity
+  - twistor theory
+  - noncommutative geometry
+  - spectral action
+  - standard model
+  - gauge theories
+  - renormalization group
+  - quantum collapse
+  - experimental physics
+
+authors:
+  - family-names: "Makraini"
+    given-names: "Kerym"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "kerym.sanjuan@uned.es"
+    affiliation: "Universidad Nacional de Educación a Distancia (UNED)"
+    city: "Madrid"
+    country: "ES"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Makraini"
+      given-names: "Kerym"
+  title: "Twistorial Spectral Quantum Vacuum Theory: Foundations and EPR-Bell Resolution"
+  journal: "Next Research"
+  publisher: "Elsevier"
+  year: 2025
+  doi: "10.xxxx/xxxxx"
+  url: "https://doi.org/10.xxxx/xxxxx"
+
+references:
+  - type: article
+    authors:
+      - family-names: "Makraini"
+        given-names: "Kerym"
+    title: "Quantum Entanglement from Spectral Exclusion: TSQVT Predictions and Experimental Tests"
+    journal: "Annals of Physics"
+    year: 2025
+    status: "submitted"
+    arxiv: "2501.xxxxx"
+    
+  - type: article
+    authors:
+      - family-names: "Connes"
+        given-names: "Alain"
+    title: "Noncommutative Geometry and the Standard Model with Neutrino Mixing"
+    journal: "Physical Review D"
+    year: 2006
+    volume: 73
+    issue: 4
+    pages: "045012"
+    doi: "10.1103/PhysRevD.73.045012"
+    
+  - type: book
+    authors:
+      - family-names: "Penrose"
+        given-names: "Roger"
+      - family-names: "Rindler"
+        given-names: "Wolfgang"
+    title: "Spinors and Space-Time"
+    publisher: "Cambridge University Press"
+    year: 1984
+    volume: 1
+    isbn: "978-0521245272"

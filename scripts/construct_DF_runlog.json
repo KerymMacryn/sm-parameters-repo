@@ -1,0 +1,33 @@
+{
+  "rng_seed": 123456,
+  "N_in": 40,
+  "N_F": 6,
+  "sigma_kernel": 0.5,
+  "files": {
+    "D0": {
+      "file": "D0.npy",
+      "sha256": "e71e4a2054fc028c2a07bf89f415d95ef9ccd9c2900213ec4583d9d0cb0f2197"
+    },
+    "D1": {
+      "file": "D1.npy",
+      "sha256": "008aa6ad76fa303b19822c21261ec6248de31a5d215b52352260054c288ee98f"
+    },
+    "D2": {
+      "file": "D2.npy",
+      "sha256": "a45fdaa1f8d3dcd87a9ccd016381ab4a5e1fc2a3c576713ee8c6eec19a65b5d3"
+    }
+  },
+  "checks": {
+    "herm_D0": 0.0,
+    "herm_D1": 0.0,
+    "herm_D2": 0.0,
+    "order_one_max_residual": 1.235091109370283e-12,
+    "trace_Q_block": 2.0,
+    "trace_Q_block_imag": 0.0,
+    "trace_Q_phys": -0.3333333333333335,
+    "trace_Q_phys_imag": 0.0,
+    "trace_Q_phys_after_correction": 0.0,
+    "unimodularity_correction": -0.05555555555555558,
+    "reality_residual": 0.0
+  }
+}

@@ -1,0 +1,4 @@
+[console_scripts]
+tsqvt-analyze = tsqvt.cli:analyze
+tsqvt-predict = tsqvt.cli:predict
+tsqvt-validate = tsqvt.cli:validate
