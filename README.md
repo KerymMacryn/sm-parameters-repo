@@ -534,7 +534,7 @@ This is theoretical physics research. While TSQVT makes falsifiable predictions,
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/kerym">Kerym Macryn</a>
+  Made with ❤️ by <a href="https://github.com/KerymMacryn">Kerym Macryn</a>
 </p>
 
 <p align="center">
